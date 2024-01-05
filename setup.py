@@ -9,8 +9,12 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'dbgian = mimodulo:main',  # Reemplaza 'mimodulo' con el nombre real de tu módulo y 'main' con la función principal si la tienes
+            'dbgian = dbgian:main',  # Asegúrate de que el nombre del módulo sea correcto
         ],
     },
+    description='Una breve descripción de tu paquete.',
+    long_description='Descripción más detallada, instrucciones de uso, etc.',
+    author='Tu Nombre',
+    author_email='tu@email.com',
+    url='https://link-a-tu-repositorio',
 )
-
