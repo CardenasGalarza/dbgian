@@ -1,2 +1,2 @@
 [console_scripts]
-dbgian = mimodulo:main
+dbgian = dbgian:main

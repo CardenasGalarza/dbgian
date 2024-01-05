@@ -14,7 +14,7 @@ setup(
     },
     description='Una breve descripción de tu paquete.',
     long_description='Descripción más detallada, instrucciones de uso, etc.',
-    author='Tu Nombre',
-    author_email='tu@email.com',
-    url='https://link-a-tu-repositorio',
+    author='Giancarlos Cardenas Galarza',
+    author_email='alex10estadistica@gmail.com',
+    url='https://github.com/CardenasGalarza/dbgian.git',
 )
