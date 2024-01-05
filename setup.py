@@ -7,4 +7,10 @@ setup(
     install_requires=[
         # Aquí puedes agregar las dependencias si las tienes
     ],
+    entry_points={
+        'console_scripts': [
+            'dbgian = mimodulo:main',  # Reemplaza 'mimodulo' con el nombre real de tu módulo y 'main' con la función principal si la tienes
+        ],
+    },
 )
+
